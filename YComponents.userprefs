@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="YComponents/YComponents.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPadRetina.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YComponents/GTParallaxScroll.cs">
+    <Files>
+      <File FileName="YComponents/DoubleScroll/UISlideButton.cs" Line="1" Column="1" />
+      <File FileName="YComponents/DoubleScroll/PageIndexView.cs" Line="1" Column="1" />
+      <File FileName="YComponents/MainViewController.cs" Line="25" Column="3" />
+      <File FileName="YComponents/GTParallaxScroll.cs" Line="70" Column="100" />
+      <File FileName="YComponents/LODiamondElement.cs" Line="1" Column="1" />
+      <File FileName="YComponents/Entitlements.plist" />
+      <File FileName="YComponents/MainViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="YComponents" expanded="True">
+            <Node name="YComponents" expanded="True">
+              <Node name="GTParallaxScroll.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
